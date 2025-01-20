@@ -3,9 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Model files (they are large binary files)
-*.h5
-
 # Dataset
 data/
 dataset/
